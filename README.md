@@ -1,33 +1,17 @@
-#### CFPB Open Source Project Template Instructions
+#### Project Template Instructions
 
 1. Create a new project.
-2. [Copy these files into the new project](#installation)
-3. Update the README, replacing the contents below as prescribed.
-4. Add any libraries, assets, or hard dependencies whose source code will be included
-   in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
-  - If no exceptions are needed, remove that section from TERMS.
-5. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
-6. Delete these instructions and everything up to the _Project Title_ from the README.
-7. Write some great software and tell people about it.
+1. [Copy these files into the new project](#installation)
+1. Update the README.
+1. Write some great software and tell people about it.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
-
-## Installation
-
-To install all of the template files, run the following script from the root of your project's directory:
-
-```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/master/open-source-template.sh)"
-```
 
 ----
 
 # Project Title
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+**Description**:  Put a meaningful, short, plain-language description of what this project is trying to accomplish and why it matters. Describe the problem(s) this project solves. Describe how this software can improve the lives of its audience.
 
 Other things to include:
 
@@ -39,7 +23,7 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
+![](example.jpg)
 
 
 ## Dependencies
@@ -92,9 +76,7 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 ----
 
 ## Open source licensing info
-1. [TERMS](TERMS.md)
-2. [LICENSE](LICENSE)
-3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
+- [LICENSE](LICENSE)
 
 
 ----
@@ -102,5 +84,5 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 ## Credits and references
 
 1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+1. Related projects
+1. Books, papers, talks, or other sources that have meaningful impact or influence on this project
